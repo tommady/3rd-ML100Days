@@ -1,2 +1,6 @@
 # jupyter check point
 .ipynb_checkpoints/
+
+# csv data
+*.csv
+data/
